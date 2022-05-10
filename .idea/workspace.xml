@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f2a5acf-4f29-4aec-89e6-389de9687e03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fa013d62-d940-4462-ac41-798533fafd03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1f2a5acf-4f29-4aec-89e6-389de9687e03" name="Default Changelist" comment="MyBatisDemo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -83,10 +81,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybatis-01/src/main/java/com/codings/utils/MybatisUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="286">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#1003#1004#0" expanded="true" />
                 <element signature="e#1057#1058#0" expanded="true" />
               </folding>
@@ -276,7 +273,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -303,7 +300,7 @@
       <workItem from="1650333244877" duration="1935000" />
       <workItem from="1650335297985" duration="943000" />
       <workItem from="1650337401398" duration="2449000" />
-      <workItem from="1652160143984" duration="233000" />
+      <workItem from="1652160143984" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="MyBatisDemo">
       <created>1652160291919</created>
@@ -312,16 +309,23 @@
       <option name="project" value="LOCAL" />
       <updated>1652160291919</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MyBatisDemo">
+      <created>1652160386578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652160386578</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5560000" />
+    <option name="totallyTimeSpent" value="5960000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="30" width="1294" height="1417" extended-state="0" />
+    <frame x="403" y="227" width="1612" height="960" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19854133" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22036083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -338,7 +342,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32943925" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32969603" />
       <window_info anchor="bottom" id="Database Console" order="12" visible="true" weight="0.5114873" />
@@ -360,6 +364,9 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="MyBatisDemo" />
     <option name="LAST_COMMIT_MESSAGE" value="MyBatisDemo" />
   </component>
@@ -418,10 +425,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-01/src/main/java/com/codings/utils/MybatisUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1003#1004#0" expanded="true" />
             <element signature="e#1057#1058#0" expanded="true" />
           </folding>
